@@ -12,6 +12,24 @@
 
 `git clone https://github.com/prashik287/PassChecker`
 
+<br/>
+
 <p>  [ + ]   Move to repo directory </p><br/>
 
 `cd PassChecker`
+
+<br/>
+
+<p>  [ + ]   Install the requirements </p><br/>
+
+`pip install -r requirements.txt`
+
+<br/>
+
+<p>  [ + ]   Run The Main file </p><br/>
+
+`python main.py`
+
+<p> OR </p>
+
+`python3 main.py`
