@@ -8,5 +8,5 @@
 </div>
 
 <h2>Installation</h2>
-
+<p>[ + ] Clone this repository</p>
 `git clone https://github.com/prashik287/PassChecker`
