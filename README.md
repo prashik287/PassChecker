@@ -8,3 +8,5 @@
 </div>
 
 <h2>Installation</h2>
+
+`git clone https://github.com/prashik287/PassChecker`
