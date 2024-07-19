@@ -7,4 +7,4 @@
 <img src="https://github.com/prashik287/PassChecker/blob/main/passcheck/images/Screenshot/3.png" alt="alt text" width="300"/>
 </div>
 
-<h3>Installation</h3>
+<h2>Installation</h2>
