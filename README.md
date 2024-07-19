@@ -7,7 +7,7 @@
 <img src="https://github.com/prashik287/PassChecker/blob/main/passcheck/images/Screenshot/3.png" alt="alt text" width="300"/>
 </div>
 
-<h2>Installation</h2>
-<p>[ + ] Clone this repository</p>
+<h2>Installation</h2><br/>
+<p>[ + ] Clone this repository</p><br/>
 
 `git clone https://github.com/prashik287/PassChecker`
