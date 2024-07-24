@@ -11,6 +11,8 @@
 
 <h2>Overview of the Project:</h2>
 <h3>Project : Password Strength Checker</h3>
+<h3>Objective:</h3>
+<p>Develop a Python program to assess the strength of passwords entered by users, providing feedback based on various criteria such as length, complexity, and common patterns, aiming to enhance security by encouraging the use of strong passwords.</p>
 <div>
 <img src="https://github.com/prashik287/PassChecker/blob/main/passcheck/images/Screenshot/1.png" alt="alt text" width="300"/>
 <img src="https://github.com/prashik287/PassChecker/blob/main/passcheck/images/Screenshot/2.png" alt="alt text" width="300"/>
