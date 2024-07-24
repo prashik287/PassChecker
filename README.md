@@ -9,6 +9,8 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
 
+<h2>Overview of the Project:</h2>
+<h3>Project : Password Strength Checker</h3>
 <div>
 <img src="https://github.com/prashik287/PassChecker/blob/main/passcheck/images/Screenshot/1.png" alt="alt text" width="300"/>
 <img src="https://github.com/prashik287/PassChecker/blob/main/passcheck/images/Screenshot/2.png" alt="alt text" width="300"/>
