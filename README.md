@@ -29,6 +29,15 @@
 <img src="https://github.com/prashik287/PassChecker/blob/main/passcheck/images/Screenshot/3.png" alt="alt text" width="300"/>
 </div>
 
+<h3>Technologies Used : </h3>
+<ul>
+  <li>Python </li>
+  <ul>
+    <li>Custom Tkinter</li>
+    <li>Pillow</li>
+  </ul>
+</ul>
+
 <h2>Installation:</h2><br/>
 <p>  [ + ]   Clone this repository</p><br/>
 
