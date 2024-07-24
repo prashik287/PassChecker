@@ -13,6 +13,16 @@
 <h3>Project : Password Strength Checker</h3>
 <h3>Objective:</h3>
 <p>Develop a Python program to assess the strength of passwords entered by users, providing feedback based on various criteria such as length, complexity, and common patterns, aiming to enhance security by encouraging the use of strong passwords.</p>
+<h3>Key Activities:</h3>
+<ul>
+  <li>User Input Handling: Receive and validate user input for passwords.</li>
+
+<li>Length Check: Verify if the password meets a minimum length requirement.</li>
+
+<li>Character Types: Evaluate the presence of different character types (uppercase letters, lowercase letters, digits, special characters) in the password.</li>
+
+<li>Common Password Checks: Compare the entered password against a list of common passwords or patterns to avoid weak choices.</li>
+</ul>
 <div>
 <img src="https://github.com/prashik287/PassChecker/blob/main/passcheck/images/Screenshot/1.png" alt="alt text" width="300"/>
 <img src="https://github.com/prashik287/PassChecker/blob/main/passcheck/images/Screenshot/2.png" alt="alt text" width="300"/>
